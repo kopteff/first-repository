@@ -1,4 +1,4 @@
 # first-repository
 learning to github
 first commit
-Обновил описание
+Р­С‚Рѕ РїСЂРѕСЃС‚Рѕ С‡СѓРґРµСЃРЅР°СЏ С‚РµС…РЅРѕР»РѕРіРёСЏ :)
